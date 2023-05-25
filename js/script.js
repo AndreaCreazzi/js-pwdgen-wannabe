@@ -2,6 +2,12 @@
 
 console.log(`JS OK`)
 
+//Inserisco numero password in variabile
+//Verifica numero in console
+
+const number = `21`;
+console.log(number)
+
 // Recupero dell'elemento dal DOM
 
 const askpassword = document.getElementById(`password-give`)
@@ -26,11 +32,6 @@ console.log(asklastname)
 const askcolor = prompt(`Qual\'è il tuo colore preferito?` , `Blu`)
 console.log(askcolor)
 
-//Inserisco numero password in variabile
-//Verifica numero in console
-
-const number = `21`;
-console.log(number)
 
 //Inserisco l'elemento nel DOM
 
